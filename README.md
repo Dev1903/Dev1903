@@ -35,6 +35,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![BlueJ](https://img.shields.io/badge/-BlueJ-0078D7?style=for-the-badge&logo=java&logoColor=white)
 ![Turbo C++](https://img.shields.io/badge/-Turbo_C++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PicsArt](https://img.shields.io/badge/-PicsArt-FFA700?style=for-the-badge&logo=picsart&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/-Dev_C++-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
