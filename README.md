@@ -40,6 +40,8 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Command Prompt](https://img.shields.io/badge/-Command_Prompt-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FFAB00?style=for-the-badge&logo=mit-app-inventor&logoColor=white)
+![Kodular](https://img.shields.io/badge/-Kodular-4A90E2?style=for-the-badge&logo=kodular&logoColor=white)
 
 ## OS
 ![Windows 7](https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
