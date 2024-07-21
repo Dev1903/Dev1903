@@ -48,3 +48,10 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Windows 10](https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev1903&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=radical)
+
