@@ -53,5 +53,5 @@ I am a student learner with a knack in computing and interest in learning new th
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev1903&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=midnight-purple)
 
