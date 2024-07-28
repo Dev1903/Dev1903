@@ -5,7 +5,7 @@ I am a student learner with a knack in computing and interest in learning new th
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bristidev.burman2004)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bristidev-burman1903)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-black?style=for-the-badge)](https://myportfoliowebsite-d6t7g3ra7-bristidev-burmans-projects.vercel.app/)
+[![Portfolio - Explore](https://img.shields.io/badge/Portfolio-Explore-0D6EFD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://myportfoliowebsite-d6t7g3ra7-bristidev-burmans-projects.vercel.app/)
 
 
 
