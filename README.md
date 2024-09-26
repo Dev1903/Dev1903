@@ -29,7 +29,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=54B3CF)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-082532?style=for-the-badge&logo=mongodb&logoColor=08EF69)
+![MongoDB](https://img.shields.io/badge/-MongoDB-082532?style=for-the-badge&logo=mongodb&logoColor=08EF69&labelColor=08EF69)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
