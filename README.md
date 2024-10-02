@@ -68,3 +68,6 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=midnight-purple)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev1903&theme=radical&no-frame=false&no-bg=false&margin-w=4)
