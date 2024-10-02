@@ -10,7 +10,7 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 # 💡Skills📊
-## Tech
+## 👨‍💻Tech
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 
-## Software
+## 🛠️Software
 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -56,7 +56,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FFAB00?style=for-the-badge&logo=mit-app-inventor&logoColor=white)
 ![Kodular](https://img.shields.io/badge/-Kodular-4A90E2?style=for-the-badge&logo=kodular&logoColor=white)
 
-## OS
+## ⚙️OS
 ![Windows 7](https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
