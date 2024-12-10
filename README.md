@@ -34,7 +34,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-09C8B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-6C52C6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Render](https://img.shields.io/badge/Rendered%20with-Blender-orange?style=flat-square&logo=blender)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
 
