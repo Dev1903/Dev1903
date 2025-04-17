@@ -35,6 +35,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Netlify](https://img.shields.io/badge/-Netlify-09C8B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-6C52C6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 
@@ -48,6 +49,7 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Blynk](https://img.shields.io/badge/-Blynk-00C6FF?style=for-the-badge&logo=blynk&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![BlueJ](https://img.shields.io/badge/-BlueJ-0078D7?style=for-the-badge&logo=java&logoColor=white)
 ![Turbo C++](https://img.shields.io/badge/-Turbo_C++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PicsArt](https://img.shields.io/badge/-PicsArt-FFA700?style=for-the-badge&logo=picsart&logoColor=white)
@@ -57,6 +59,9 @@ I am a student learner with a knack in computing and interest in learning new th
 ![Command Prompt](https://img.shields.io/badge/-Command_Prompt-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FFAB00?style=for-the-badge&logo=mit-app-inventor&logoColor=white)
 ![Kodular](https://img.shields.io/badge/-Kodular-4A90E2?style=for-the-badge&logo=kodular&logoColor=white)
+![Expo Go](https://img.shields.io/badge/-Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## ⚙️OS
 ![Windows 7](https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
