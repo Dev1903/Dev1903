@@ -72,18 +72,10 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 
-<table width=100 align="center" >
-  <tr>
-    <td align="center" width="50%">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dev1903&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center" width="50%">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=midnight-purple" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex;">
+  <div>1</div>
+  <div>2</div>
+</div>
 
 
 
