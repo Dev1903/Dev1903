@@ -94,7 +94,7 @@
 <br/><hr/>
 <h2>Watch my Contributions Get Eaten by a Snake</h2>
 <div align="center">
-    <img src="https://github.com/Dev1903/Dev1903/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Dev1903/Dev1903/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/><hr/>
 
