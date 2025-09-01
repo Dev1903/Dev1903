@@ -22,10 +22,10 @@
   <a href="mailto:bristidev2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/bristidev-burman1903">
+   &nbsp;<a href="https://www.linkedin.com/in/bristidev-burman1903">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bristidev.burman2004">
+    &nbsp;<a href="https://www.instagram.com/bristidev.burman2004">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
