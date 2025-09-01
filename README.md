@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Netlify-09C8B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hostinger-6C52C6?style=for-the-badge&logo=hostinger&logoColor=white" />
+<img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
 
 <br>
@@ -54,7 +58,21 @@
 <!-- Software / Tools -->
 <h3 align="center">🛠️ Software</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=canva,powerpoint,word,excel,blynk,visualstudiocode,eclipse,bluej,devc,adobedreamweaver,notepadplusplus,mitappinventor,kodular,expo,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,unity,blender" />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Blynk-00C6FF?style=for-the-badge&logo=blynk&logoColor=white" />
+<img src="https://img.shields.io/badge/-BlueJ-0078D7?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dev_C++-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+<img src="https://img.shields.io/badge/-MIT_App_Inventor-FFAB00?style=for-the-badge&logo=mit-app-inventor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kodular-4A90E2?style=for-the-badge&logo=kodular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </div>
 
 <br>
