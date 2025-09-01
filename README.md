@@ -9,6 +9,8 @@
 
 <br/>
 
+![Dev1903's GitHub contributions](https://github.com/users/Dev1903/contributions)
+
 <div align="center">
  🔭 I’m currently exploring <b>MERN stack & Cloud technologies</b> <br />
  🌱 I’m currently learning <b>AWS, Docker, React Native</b>  <br />
