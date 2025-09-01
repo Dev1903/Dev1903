@@ -1,83 +1,90 @@
-# 🌟About Me
-I am a student learner with a knack in computing and interest in learning new things
+<!-- Visitor Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dev1903.Dev1903" />
 
-# 🌐Socials
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bristidev!;" />
+</h1>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bristidev.burman2004)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bristidev-burman1903)
+<h3 align="center">A student learner passionate about computing and technology 💻</h3>
 
+<br/>
 
+<div align="center">
+ 🔭 I’m currently exploring **MERN stack & Cloud technologies**  
+ 🌱 I’m currently learning **AWS, Docker, React Native**  
+ 💬 Ask me about **JavaScript, Node.js, Python, IoT... <a href="mailto:bristidev2004@gmail.com">here</a>**  
+ ⚡ Fun fact: **I love coding and building small projects for fun**  
+</div>
 
+<br/>
 
+<div align="center"> 
+  <a href="mailto:bristidev2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bristidev-burman1903">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bristidev.burman2004">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-# 💡Skills📊
-## 👨‍💻Tech
+<hr/>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Internet of Things](https://img.shields.io/badge/-Internet_of_Things-0087B4?style=for-the-badge&logo=internetofthings&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=54B3CF)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-082532?style=for-the-badge&logo=mongodb&logoColor=08EF69)
-![Node.js](https://img.shields.io/badge/-Node.js-46473D?style=for-the-badge&logo=node.js&logoColor=339933)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-09C8B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Hostinger](https://img.shields.io/badge/-Hostinger-6C52C6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<h2 align="center">💡 Skills 📊</h2>
 
+<!-- Tech / Programming Languages -->
+<h3 align="center">👨‍💻 Tech</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,c,cpp,express,tailwind,vscode,git,github,reactnative,vercel,netlify,hostinger,render" />
+  <br>
+  <!-- Shields for items not available on skillicons -->
+  <img src="https://img.shields.io/badge/-Internet_of_Things-0087B4?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
+<br>
 
+<!-- Software / Tools -->
+<h3 align="center">🛠️ Software</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=canva,powerpoint,word,excel,blynk,visualstudiocode,eclipse,bluej,devc,adobedreamweaver,notepadplusplus,mitappinventor,kodular,expo,unity,blender" />
+</div>
 
+<br>
 
-## 🛠️Software
-
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Blynk](https://img.shields.io/badge/-Blynk-00C6FF?style=for-the-badge&logo=blynk&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![BlueJ](https://img.shields.io/badge/-BlueJ-0078D7?style=for-the-badge&logo=java&logoColor=white)
-![Turbo C++](https://img.shields.io/badge/-Turbo_C++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PicsArt](https://img.shields.io/badge/-PicsArt-FFA700?style=for-the-badge&logo=picsart&logoColor=white)
-![Dev C++](https://img.shields.io/badge/-Dev_C++-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
-![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Command Prompt](https://img.shields.io/badge/-Command_Prompt-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FFAB00?style=for-the-badge&logo=mit-app-inventor&logoColor=white)
-![Kodular](https://img.shields.io/badge/-Kodular-4A90E2?style=for-the-badge&logo=kodular&logoColor=white)
-![Expo Go](https://img.shields.io/badge/-Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-## ⚙️OS
-![Windows 7](https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-
-<div align="center" style="display:flex;">
-  <div>1</div>
-  <div>2</div>
+<!-- Operating Systems -->
+<h3 align="center">⚙️ OS</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+  <!-- Shields for older Windows versions -->
+  <img src="https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 
+<br/><hr/>
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev1903&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev1903&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Dev1903&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/><hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev1903&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+<br/><hr/>
+
