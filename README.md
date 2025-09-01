@@ -72,10 +72,7 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev1903&show_icons=true&theme=dracula)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev1903&show_icons=true&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1903&layout=compact&theme=midnight-purple)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev1903&theme=radical&no-frame=false&no-bg=false&margin-w=4)
