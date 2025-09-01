@@ -37,7 +37,8 @@
 <!-- Tech / Programming Languages -->
 <h3 align="center">👨‍💻 Tech</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,python,java,c,cpp,express,tailwind,vscode,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,vite,nodejs,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,cpp,mysql,npm,vercel,netlify,cloudflare,materialui" />
 </div>
   <!-- Shields for items not available on skillicons -->
   <div align="center">
@@ -57,7 +58,7 @@
 <!-- Software / Tools -->
 <h3 align="center">🛠️ Software</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,unity,blender,arduino" />
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
@@ -80,6 +81,8 @@
 <h3 align="center">⚙️ OS</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+</div>
+<div align="center">
   <!-- Shields for older Windows versions -->
   <img src="https://img.shields.io/badge/-Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
