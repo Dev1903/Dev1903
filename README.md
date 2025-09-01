@@ -10,10 +10,10 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently exploring **MERN stack & Cloud technologies**  
- 🌱 I’m currently learning **AWS, Docker, React Native**  
- 💬 Ask me about **JavaScript, Node.js, Python, IoT... <a href="mailto:bristidev2004@gmail.com">here</a>**  
- ⚡ Fun fact: **I love coding and building small projects for fun**  
+ 🔭 I’m currently exploring <b>MERN stack & Cloud technologies</b>  
+ 🌱 I’m currently learning <b>AWS, Docker, React Native</b>  
+ 💬 Ask me about <b>JavaScript, Node.js, Python, IoT... <a href="mailto:bristidev2004@gmail.com">here</a></b>
+ ⚡ Fun fact: <b>I love coding and building small projects for fun</b>
 </div>
 
 <br/>
