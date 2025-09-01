@@ -39,7 +39,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,c,cpp,express,tailwind,vscode,git,github,reactnative,vercel,netlify,hostinger,render" />
   <br>
+</div>
   <!-- Shields for items not available on skillicons -->
+  <div align="center">
   <img src="https://img.shields.io/badge/-Internet_of_Things-0087B4?style=for-the-badge&logo=internetofthings&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
