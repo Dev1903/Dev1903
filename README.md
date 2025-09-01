@@ -37,7 +37,7 @@
 <!-- Tech / Programming Languages -->
 <h3 align="center">👨‍💻 Tech</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,c,cpp,express,tailwind,vscode,git,github,reactnative,vercel,netlify,hostinger,render" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,c,cpp,express,tailwind,vscode,git,github,vercel,netlify" />
   <br>
 </div>
   <!-- Shields for items not available on skillicons -->
