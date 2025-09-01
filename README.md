@@ -9,7 +9,7 @@
 
 <br/>
 
-![Dev1903's GitHub contributions](https://github.com/users/Dev1903/contributions)
+<img src="https://github.com/users/Dev1903/contributions"/>
 
 <div align="center">
  🔭 I’m currently exploring <b>MERN stack & Cloud technologies</b> <br />
