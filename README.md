@@ -93,6 +93,10 @@
 
 <br/><hr/>
 
+<div>
+    <img src="https://github.com/Dev1903/Dev1903/blob/output/github-contribution-grid-snake.gif" />
+</div>
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br/>
 <div align="center">
