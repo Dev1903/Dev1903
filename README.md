@@ -33,10 +33,10 @@
 
 <hr/>
 
-<h2>💡 Skills 📊</h2>
+<h2 align="center">💡 Skills 📊</h2>
 
 <!-- Tech / Programming Languages -->
-<h3>👨‍💻 Tech</h3>
+<h3 align="center">👨‍💻 Tech</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,vite,nodejs,firebase,git,github" />
     <img src="https://skillicons.dev/icons?i=py,java,jquery,c,cpp,mysql,npm,vercel,netlify,cloudflare,materialui" />
