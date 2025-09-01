@@ -72,7 +72,7 @@ I am a student learner with a knack in computing and interest in learning new th
 
 
 
-<table width="100%">
+<table width="100vw">
   <tr>
     <td align="center" width="50%">
       <h3>GitHub Stats</h3>
