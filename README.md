@@ -39,7 +39,7 @@
 <h3 align="center">👨‍💻 Tech</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,vite,nodejs,firebase,git,github" />
-    <img src="https://skillicons.dev/icons?i=py,java,jquery,c,cpp,mysql,npm,vercel,netlify,cloudflare,materialui" />
+    <img src="https://skillicons.dev/icons?i=dart,py,java,jquery,c,cpp,mysql,npm,vercel,netlify,cloudflare,materialui" />
 </div>
   <!-- Shields for items not available on skillicons -->
   <div align="center">
